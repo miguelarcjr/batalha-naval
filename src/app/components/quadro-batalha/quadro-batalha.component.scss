@@ -1,0 +1,39 @@
+.item {
+  background-color: #dcf8ff;
+  border: 1px solid #686868;
+  cursor: pointer;
+}
+
+.item:hover {
+  background-color: #b8dae2;
+}
+
+.item-embarcado {
+  background-color: blue;
+}
+
+.item-embarcado-atingido {
+  background-color: red;
+}
+
+.item-embarcado-errado {
+  background-color: gray;
+}
+
+.item-tipo {
+  background-color: #dcf8ff;
+  border: 1px solid #686868;
+  height: 40px;
+}
+.item-tipo-selected {
+  background-color: blue;
+
+}
+
+.item-container {
+  cursor: pointer;
+}
+
+.item-container:hover {
+  background: #d6d6d6;
+}
